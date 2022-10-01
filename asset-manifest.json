@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/film-room/static/css/main.334bdeb1.css",
+    "main.js": "/film-room/static/js/main.b6f4d3a9.js",
+    "index.html": "/film-room/index.html",
+    "static/media/search.svg": "/film-room/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/film-room/static/css/main.334bdeb1.css.map",
+    "main.b6f4d3a9.js.map": "/film-room/static/js/main.b6f4d3a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.b6f4d3a9.js"
+  ]
+}
